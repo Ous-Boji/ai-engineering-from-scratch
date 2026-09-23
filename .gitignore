@@ -1,0 +1,9 @@
+# Step 7: Ignore large datasets and model weights
+*.bin
+*.safetensors
+*.pt
+*.onnx
+*.parquet
+*.csv
+*.json
+models/
